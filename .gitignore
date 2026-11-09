@@ -1,0 +1,20 @@
+# Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build tool directories
+target/
+build/
+.gradle/
+bin/
+
+# Virtual machine logs
+*.log
